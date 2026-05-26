@@ -1,4 +1,4 @@
-# Talken IO
+# Talken
 
 Multi-chain MPC wallet, cross-chain swap infrastructure, and AI agentic wallet ecosystem.
 
@@ -9,6 +9,10 @@ Talken builds wallet and protocol software for moving assets across EVM chains a
 - [Talken](https://talken.io) - multi-chain wallet and Web3 user experience
 - [Swap](https://swap.talken.io) - cross-chain swap interface
 - [API](https://api.talken.io/api/v1) - quote, transaction-build, bridge, relayer, and paymaster endpoints
+
+## Talken Project Hub
+
+- [Open the Talken project board](https://github.com/orgs/talken-io/projects/1) - current work, priorities, and delivery status
 
 ## Repository Quick Links
 
