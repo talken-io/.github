@@ -7,7 +7,6 @@ Talken builds wallet and protocol software for moving assets across EVM chains a
 ## Product Surfaces
 
 - [Talken](https://talken.io) - multi-chain wallet and Web3 user experience
-- [Swap](https://swap.talken.io) - cross-chain swap interface
 - [API](https://api.talken.io/api/v1) - quote, transaction-build, bridge, relayer, and paymaster endpoints
 
 ## Talken Project Hub
