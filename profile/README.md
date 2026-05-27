@@ -7,6 +7,7 @@ Talken builds wallet and protocol software for moving assets across EVM chains a
 ## Product Surfaces
 
 - [Talken](https://talken.io) - multi-chain wallet and Web3 user experience
+- [NFT Platform](https://github.com/talken-io/talken-nft-studio) - NFT creation, drops, and management tooling
 - [API Docs](https://api.talken.io/api/v1/docs) - Swagger reference for quote, transaction-build, bridge, relayer, and paymaster endpoints
 
 ## Talken Project Hub
@@ -33,6 +34,12 @@ Most product repositories are private and require organization access.
 - [Android](https://github.com/talken-io/talken-mfe-aos) - native Android mobile app
 - [iOS](https://github.com/talken-io/talken-mfe-ios) - native iOS mobile app
 
+### NFT Platform
+
+- [NFT Studio](https://github.com/talken-io/talken-nft-studio) - NFT creation and management studio
+- [NFT Drops](https://github.com/talken-io/talken-nft-drops) - NFT drop platform contracts and backend
+- [NFT Backend v2](https://github.com/talken-io/talken-nft-backend-v2) - NFT platform backend v2
+
 ### AI and Agentic Wallet
 
 - [Agentic Wallet](https://github.com/talken-io/talken-agentic-wallet) - CLI and MCP server for agent wallet operations, swaps, bridges, and staking
@@ -54,6 +61,7 @@ Most product repositories are private and require organization access.
 - One-transaction cross-chain swaps across EVM chains and Solana
 - Gasless swap execution using EIP-7702, account abstraction, Permit2, relayers, and paymasters
 - MPC wallet experiences across web, mobile, browser extension, Telegram, and desktop surfaces
+- NFT creation, drop, and management workflows
 - Agent-ready wallet tooling through API, CLI, and MCP interfaces
 - TALK token bridging, staking, and ecosystem contract infrastructure
 
