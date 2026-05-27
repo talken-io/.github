@@ -7,7 +7,7 @@ Talken builds wallet and protocol software for moving assets across EVM chains a
 ## Product Surfaces
 
 - [Talken](https://talken.io) - multi-chain wallet and Web3 user experience
-- [NFT Platform](https://github.com/talken-io/talken-nft-studio) - NFT creation, drops, and management tooling
+- [NFT Platform](https://nft.topport.io/) - NFT creation, drops, and management tooling
 - [API Docs](https://api.talken.io/api/v1/docs) - Swagger reference for quote, transaction-build, bridge, relayer, and paymaster endpoints
 
 ## Talken Project Hub
